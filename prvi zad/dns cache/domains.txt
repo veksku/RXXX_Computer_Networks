@@ -1,0 +1,8 @@
+google.com
+yahoo.com
+openai.com
+nonexistentdomain12345.com
+facebook.com
+openai.com
+chatgpt.com
+openai.com

@@ -1,0 +1,8 @@
+google.com -> 172.217.17.78 (dohvaceno sa DNS servera)
+openai.com -> 104.18.33.45 (dohvaceno sa DNS servera)
+yahoo.com -> 74.6.143.26 (dohvaceno sa DNS servera)
+chatgpt.com -> 172.64.155.209 (dohvaceno sa DNS servera)
+openai.com -> 104.18.33.45 (preuzeto iz cache-a)
+openai.com -> 104.18.33.45 (preuzeto iz cache-a)
+nonexistentdomain12345.com -> NEPOZNAT HOST
+facebook.com -> 31.13.84.36 (dohvaceno sa DNS servera)
