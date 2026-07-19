@@ -1,5 +1,6 @@
+=
 ZAD1 - URL/FILE PROCESSING
-
+=
 COMMON PATTERNS:
 - Read URLs from a file
 - Filter URLs by protocol (file://, http://, https://)
