@@ -115,9 +115,9 @@ try {
     // Handle invalid URLs
 }
 ```
-===============================================================================
-                            THREADING CONCEPTS
-===============================================================================
+
+THREADING CONCEPTS
+=
 
 THREAD CREATION PATTERNS:
 ```java
@@ -182,9 +182,8 @@ for (Thread t : threads) {
 }
 ```
 
-===============================================================================
-                            NETWORKING ESSENTIALS
-===============================================================================
+NETWORKING ESSENTIALS
+=
 
 TCP vs UDP:
 - TCP: Reliable, connection-oriented, ordered delivery, flow control
@@ -229,9 +228,8 @@ COMMON EXCEPTIONS:
 - NumberFormatException: Invalid number parsing
 - URISyntaxException: Invalid URI format
 
-===============================================================================
-                            EXAM TIPS & TRICKS
-===============================================================================
+EXAM TIPS & TRICKS
+=
 
 1. THREAD SAFETY is crucial:
    - Use AtomicInteger for counters
