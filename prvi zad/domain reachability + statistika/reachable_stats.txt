@@ -1,0 +1,13 @@
+Ukupan broj dostupnih domena: 4
+Ukupan broj nedostupnih domena: 1
+
+Dostupni domeni sa vremenom odziva:
+openai.com - 20 ms
+facebook.com - 36 ms
+google.com - 54 ms
+yahoo.com - 149 ms
+
+Top 3 najbrza domena:
+1. openai.com - 20 ms
+2. facebook.com - 36 ms
+3. google.com - 54 ms
