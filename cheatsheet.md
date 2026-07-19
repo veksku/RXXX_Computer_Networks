@@ -1,5 +1,4 @@
-===============================================================================
-                            ZAD1 - URL/FILE PROCESSING
+ZAD1 - URL/FILE PROCESSING
 
 COMMON PATTERNS:
 - Read URLs from a file
