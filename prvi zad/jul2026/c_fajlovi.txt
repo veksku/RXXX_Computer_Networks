@@ -1,0 +1,5 @@
+src/jul2026/tests/hello.c
+src/jul2026/tests/readme.txt
+src/jul2026/tests/dir/helloWorld.c
+src/jul2026/tests/dir/palind.c
+src/jul2026/tests/pi.c
